@@ -1,0 +1,14 @@
+Tyler Kowalczik, Kyle Graham 
+Assignment 4
+
+Runs in linux and visual studio
+
+for visual studio, add all files to a project and run normally.
+
+for linux, the g++ command is
+
+
+ g++ ClassicMovie.h ClassicMovie.cpp DramaMovie.h DramaMovie.cpp 
+ComedyMovie.h ComedyMovie.cpp Rental.h Movie.h Movie.cpp Customer.h Customer.cpp 
+CustomerHashTable.h CustomerHashTable.cpp MovieSList.h MovieSList.cpp CustHistoryList.h
+ CustHistoryList.cpp Main.cpp MovieStore.h MovieStore.cpp
